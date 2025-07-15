@@ -40,11 +40,18 @@ markerFolder: ./Lagunes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lagunes|Lagunes]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lagunes.public|Lagunes.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lagunes.internal|Lagunes.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lagunes.protect|Lagunes.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lagunes.private|Lagunes.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lagunes.personal|Lagunes.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lagunes.secret|Lagunes.secret]] 
+
+### #is_/same_as :: [Lagunes](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lagunes.md) 
+
+### #is_/same_as :: [Lagunes.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lagunes.public.md) 
+
+### #is_/same_as :: [Lagunes.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lagunes.internal.md) 
+
+### #is_/same_as :: [Lagunes.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lagunes.protect.md) 
+
+### #is_/same_as :: [Lagunes.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lagunes.private.md) 
+
+### #is_/same_as :: [Lagunes.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lagunes.personal.md) 
+
+### #is_/same_as :: [Lagunes.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lagunes.secret.md)
 

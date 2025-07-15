@@ -40,11 +40,18 @@ markerFolder: ./Vallée_du_Bandama/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/Counties/Vallée_du_Bandama|Vallée_du_Bandama]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Vallée_du_Bandama.public|Vallée_du_Bandama.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Vallée_du_Bandama.internal|Vallée_du_Bandama.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Vallée_du_Bandama.protect|Vallée_du_Bandama.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Vallée_du_Bandama.private|Vallée_du_Bandama.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Vallée_du_Bandama.personal|Vallée_du_Bandama.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Vallée_du_Bandama.secret|Vallée_du_Bandama.secret]] 
+
+### #is_/same_as :: [Vallée_du_Bandama](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Vallée_du_Bandama.md) 
+
+### #is_/same_as :: [Vallée_du_Bandama.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Vallée_du_Bandama.public.md) 
+
+### #is_/same_as :: [Vallée_du_Bandama.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Vallée_du_Bandama.internal.md) 
+
+### #is_/same_as :: [Vallée_du_Bandama.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Vallée_du_Bandama.protect.md) 
+
+### #is_/same_as :: [Vallée_du_Bandama.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Vallée_du_Bandama.private.md) 
+
+### #is_/same_as :: [Vallée_du_Bandama.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Vallée_du_Bandama.personal.md) 
+
+### #is_/same_as :: [Vallée_du_Bandama.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Vallée_du_Bandama.secret.md)
 

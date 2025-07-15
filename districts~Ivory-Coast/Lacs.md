@@ -40,11 +40,18 @@ markerFolder: ./Lacs/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lacs|Lacs]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lacs.public|Lacs.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lacs.internal|Lacs.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lacs.protect|Lacs.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lacs.private|Lacs.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lacs.personal|Lacs.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Lacs.secret|Lacs.secret]] 
+
+### #is_/same_as :: [Lacs](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs.md) 
+
+### #is_/same_as :: [Lacs.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs.public.md) 
+
+### #is_/same_as :: [Lacs.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs.internal.md) 
+
+### #is_/same_as :: [Lacs.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs.protect.md) 
+
+### #is_/same_as :: [Lacs.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs.private.md) 
+
+### #is_/same_as :: [Lacs.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs.personal.md) 
+
+### #is_/same_as :: [Lacs.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs.secret.md)
 

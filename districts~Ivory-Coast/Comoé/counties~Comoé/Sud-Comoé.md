@@ -40,11 +40,18 @@ markerFolder: ./Sud-Comoé/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Comoé|Sud-Comoé]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Comoé.public|Sud-Comoé.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Comoé.internal|Sud-Comoé.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Comoé.protect|Sud-Comoé.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Comoé.private|Sud-Comoé.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Comoé.personal|Sud-Comoé.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Sud-Comoé.secret|Sud-Comoé.secret]] 
+
+### #is_/same_as :: [Sud-Comoé](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Comoé/counties~Comoé/Sud-Comoé.md) 
+
+### #is_/same_as :: [Sud-Comoé.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Comoé/counties~Comoé/Sud-Comoé.public.md) 
+
+### #is_/same_as :: [Sud-Comoé.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Comoé/counties~Comoé/Sud-Comoé.internal.md) 
+
+### #is_/same_as :: [Sud-Comoé.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Comoé/counties~Comoé/Sud-Comoé.protect.md) 
+
+### #is_/same_as :: [Sud-Comoé.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Comoé/counties~Comoé/Sud-Comoé.private.md) 
+
+### #is_/same_as :: [Sud-Comoé.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Comoé/counties~Comoé/Sud-Comoé.personal.md) 
+
+### #is_/same_as :: [Sud-Comoé.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Comoé/counties~Comoé/Sud-Comoé.secret.md)
 

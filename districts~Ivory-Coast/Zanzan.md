@@ -40,11 +40,18 @@ markerFolder: ./Zanzan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/Counties/Zanzan|Zanzan]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Zanzan.public|Zanzan.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Zanzan.internal|Zanzan.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Zanzan.protect|Zanzan.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Zanzan.private|Zanzan.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Zanzan.personal|Zanzan.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Zanzan.secret|Zanzan.secret]] 
+
+### #is_/same_as :: [Zanzan](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Zanzan.md) 
+
+### #is_/same_as :: [Zanzan.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Zanzan.public.md) 
+
+### #is_/same_as :: [Zanzan.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Zanzan.internal.md) 
+
+### #is_/same_as :: [Zanzan.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Zanzan.protect.md) 
+
+### #is_/same_as :: [Zanzan.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Zanzan.private.md) 
+
+### #is_/same_as :: [Zanzan.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Zanzan.personal.md) 
+
+### #is_/same_as :: [Zanzan.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Zanzan.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Bas-Sassandra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra|Bas-Sassandra]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra.public|Bas-Sassandra.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra.internal|Bas-Sassandra.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra.protect|Bas-Sassandra.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra.private|Bas-Sassandra.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra.personal|Bas-Sassandra.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bas-Sassandra.secret|Bas-Sassandra.secret]] 
+
+### #is_/same_as :: [Bas-Sassandra](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.md) 
+
+### #is_/same_as :: [Bas-Sassandra.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.public.md) 
+
+### #is_/same_as :: [Bas-Sassandra.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.internal.md) 
+
+### #is_/same_as :: [Bas-Sassandra.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.protect.md) 
+
+### #is_/same_as :: [Bas-Sassandra.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.private.md) 
+
+### #is_/same_as :: [Bas-Sassandra.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.personal.md) 
+
+### #is_/same_as :: [Bas-Sassandra.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.secret.md)
 

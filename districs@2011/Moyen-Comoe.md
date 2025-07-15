@@ -40,11 +40,18 @@ markerFolder: ./Moyen-Comoe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Comoe|Moyen-Comoe]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Comoe.public|Moyen-Comoe.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Comoe.internal|Moyen-Comoe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Comoe.protect|Moyen-Comoe.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Comoe.private|Moyen-Comoe.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Comoe.personal|Moyen-Comoe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Comoe.secret|Moyen-Comoe.secret]] 
+
+### #is_/same_as :: [Moyen-Comoe](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Comoe.md) 
+
+### #is_/same_as :: [Moyen-Comoe.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Comoe.public.md) 
+
+### #is_/same_as :: [Moyen-Comoe.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Comoe.internal.md) 
+
+### #is_/same_as :: [Moyen-Comoe.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Comoe.protect.md) 
+
+### #is_/same_as :: [Moyen-Comoe.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Comoe.private.md) 
+
+### #is_/same_as :: [Moyen-Comoe.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Comoe.personal.md) 
+
+### #is_/same_as :: [Moyen-Comoe.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Comoe.secret.md)
 

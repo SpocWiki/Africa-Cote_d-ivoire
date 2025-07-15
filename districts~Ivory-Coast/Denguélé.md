@@ -40,11 +40,18 @@ markerFolder: ./Denguélé/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé|Denguélé]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé.public|Denguélé.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé.internal|Denguélé.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé.protect|Denguélé.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé.private|Denguélé.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé.personal|Denguélé.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Denguélé.secret|Denguélé.secret]] 
+
+### #is_/same_as :: [Denguélé](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Denguélé.md) 
+
+### #is_/same_as :: [Denguélé.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Denguélé.public.md) 
+
+### #is_/same_as :: [Denguélé.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Denguélé.internal.md) 
+
+### #is_/same_as :: [Denguélé.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Denguélé.protect.md) 
+
+### #is_/same_as :: [Denguélé.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Denguélé.private.md) 
+
+### #is_/same_as :: [Denguélé.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Denguélé.personal.md) 
+
+### #is_/same_as :: [Denguélé.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Denguélé.secret.md)
 

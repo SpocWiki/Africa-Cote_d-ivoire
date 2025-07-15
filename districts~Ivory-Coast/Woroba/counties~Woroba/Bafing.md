@@ -40,11 +40,18 @@ markerFolder: ./Bafing/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bafing|Bafing]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bafing.public|Bafing.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bafing.internal|Bafing.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bafing.protect|Bafing.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bafing.private|Bafing.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bafing.personal|Bafing.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Bafing.secret|Bafing.secret]] 
+
+### #is_/same_as :: [Bafing](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.md) 
+
+### #is_/same_as :: [Bafing.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.public.md) 
+
+### #is_/same_as :: [Bafing.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.internal.md) 
+
+### #is_/same_as :: [Bafing.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.protect.md) 
+
+### #is_/same_as :: [Bafing.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.private.md) 
+
+### #is_/same_as :: [Bafing.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.personal.md) 
+
+### #is_/same_as :: [Bafing.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.secret.md)
 

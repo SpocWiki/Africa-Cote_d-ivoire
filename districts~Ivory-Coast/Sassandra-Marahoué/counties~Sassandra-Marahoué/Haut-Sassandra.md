@@ -40,11 +40,18 @@ markerFolder: ./Haut-Sassandra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra|Haut-Sassandra]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra.public|Haut-Sassandra.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra.internal|Haut-Sassandra.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra.protect|Haut-Sassandra.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra.private|Haut-Sassandra.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra.personal|Haut-Sassandra.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Haut-Sassandra.secret|Haut-Sassandra.secret]] 
+
+### #is_/same_as :: [Haut-Sassandra](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Sassandra-Marahoué/counties~Sassandra-Marahoué/Haut-Sassandra.md) 
+
+### #is_/same_as :: [Haut-Sassandra.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Sassandra-Marahoué/counties~Sassandra-Marahoué/Haut-Sassandra.public.md) 
+
+### #is_/same_as :: [Haut-Sassandra.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Sassandra-Marahoué/counties~Sassandra-Marahoué/Haut-Sassandra.internal.md) 
+
+### #is_/same_as :: [Haut-Sassandra.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Sassandra-Marahoué/counties~Sassandra-Marahoué/Haut-Sassandra.protect.md) 
+
+### #is_/same_as :: [Haut-Sassandra.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Sassandra-Marahoué/counties~Sassandra-Marahoué/Haut-Sassandra.private.md) 
+
+### #is_/same_as :: [Haut-Sassandra.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Sassandra-Marahoué/counties~Sassandra-Marahoué/Haut-Sassandra.personal.md) 
+
+### #is_/same_as :: [Haut-Sassandra.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Sassandra-Marahoué/counties~Sassandra-Marahoué/Haut-Sassandra.secret.md)
 

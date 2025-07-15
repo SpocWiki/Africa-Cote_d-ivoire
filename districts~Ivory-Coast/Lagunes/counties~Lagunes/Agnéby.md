@@ -40,11 +40,18 @@ markerFolder: ./Agnéby/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby|Agnéby]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby.public|Agnéby.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby.internal|Agnéby.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby.protect|Agnéby.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby.private|Agnéby.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby.personal|Agnéby.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Agnéby.secret|Agnéby.secret]] 
+
+### #is_/same_as :: [Agnéby](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lagunes/counties~Lagunes/Agnéby.md) 
+
+### #is_/same_as :: [Agnéby.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lagunes/counties~Lagunes/Agnéby.public.md) 
+
+### #is_/same_as :: [Agnéby.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lagunes/counties~Lagunes/Agnéby.internal.md) 
+
+### #is_/same_as :: [Agnéby.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lagunes/counties~Lagunes/Agnéby.protect.md) 
+
+### #is_/same_as :: [Agnéby.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lagunes/counties~Lagunes/Agnéby.private.md) 
+
+### #is_/same_as :: [Agnéby.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lagunes/counties~Lagunes/Agnéby.personal.md) 
+
+### #is_/same_as :: [Agnéby.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lagunes/counties~Lagunes/Agnéby.secret.md)
 

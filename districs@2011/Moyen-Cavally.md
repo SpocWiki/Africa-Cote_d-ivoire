@@ -40,11 +40,18 @@ markerFolder: ./Moyen-Cavally/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Cavally|Moyen-Cavally]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Cavally.public|Moyen-Cavally.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Cavally.internal|Moyen-Cavally.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Cavally.protect|Moyen-Cavally.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Cavally.private|Moyen-Cavally.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Cavally.personal|Moyen-Cavally.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Moyen-Cavally.secret|Moyen-Cavally.secret]] 
+
+### #is_/same_as :: [Moyen-Cavally](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.md) 
+
+### #is_/same_as :: [Moyen-Cavally.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.public.md) 
+
+### #is_/same_as :: [Moyen-Cavally.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.internal.md) 
+
+### #is_/same_as :: [Moyen-Cavally.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.protect.md) 
+
+### #is_/same_as :: [Moyen-Cavally.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.private.md) 
+
+### #is_/same_as :: [Moyen-Cavally.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.personal.md) 
+
+### #is_/same_as :: [Moyen-Cavally.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Worodougou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/Counties/Worodougou|Worodougou]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/Counties/Worodougou.public|Worodougou.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Worodougou.internal|Worodougou.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/Counties/Worodougou.protect|Worodougou.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/Counties/Worodougou.private|Worodougou.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/Counties/Worodougou.personal|Worodougou.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/Counties/Worodougou.secret|Worodougou.secret]] 
+
+### #is_/same_as :: [Worodougou](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Worodougou.md) 
+
+### #is_/same_as :: [Worodougou.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Worodougou.public.md) 
+
+### #is_/same_as :: [Worodougou.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Worodougou.internal.md) 
+
+### #is_/same_as :: [Worodougou.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Worodougou.protect.md) 
+
+### #is_/same_as :: [Worodougou.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Worodougou.private.md) 
+
+### #is_/same_as :: [Worodougou.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Worodougou.personal.md) 
+
+### #is_/same_as :: [Worodougou.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Worodougou.secret.md)
 

@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cote_d'Ivoire/City/Yamoussoukro|Yamoussoukro]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cote_d'Ivoire/City/Yamoussoukro.public|Yamoussoukro.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cote_d'Ivoire/City/Yamoussoukro.internal|Yamoussoukro.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cote_d'Ivoire/City/Yamoussoukro.protect|Yamoussoukro.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cote_d'Ivoire/City/Yamoussoukro.private|Yamoussoukro.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cote_d'Ivoire/City/Yamoussoukro.personal|Yamoussoukro.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cote_d'Ivoire/City/Yamoussoukro.secret|Yamoussoukro.secret]] 
+
+### #is_/same_as :: [Yamoussoukro](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.md) 
+
+### #is_/same_as :: [Yamoussoukro.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.public.md) 
+
+### #is_/same_as :: [Yamoussoukro.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.internal.md) 
+
+### #is_/same_as :: [Yamoussoukro.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.protect.md) 
+
+### #is_/same_as :: [Yamoussoukro.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.private.md) 
+
+### #is_/same_as :: [Yamoussoukro.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.personal.md) 
+
+### #is_/same_as :: [Yamoussoukro.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.secret.md)
+
