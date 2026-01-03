@@ -40,17 +40,17 @@ markerFolder: ./Savanes/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Savanes](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Savanes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Savanes|Savanes]] 
 
-### #is_/same_as :: [Savanes.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Savanes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Savanes.public|Savanes.public]] 
 
-### #is_/same_as :: [Savanes.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Savanes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Savanes.internal|Savanes.internal]] 
 
-### #is_/same_as :: [Savanes.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Savanes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Savanes.protect|Savanes.protect]] 
 
-### #is_/same_as :: [Savanes.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Savanes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Savanes.private|Savanes.private]] 
 
-### #is_/same_as :: [Savanes.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Savanes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Savanes.personal|Savanes.personal]] 
 
-### #is_/same_as :: [Savanes.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Savanes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Savanes.secret|Savanes.secret]] 
 

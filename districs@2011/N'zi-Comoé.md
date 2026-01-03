@@ -40,17 +40,17 @@ markerFolder: ./N'zi-Comoé/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [N'zi-Comoé](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/N'zi-Comoé.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/N'zi-Comoé|N'zi-Comoé]] 
 
-### #is_/same_as :: [N'zi-Comoé.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/N'zi-Comoé.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/N'zi-Comoé.public|N'zi-Comoé.public]] 
 
-### #is_/same_as :: [N'zi-Comoé.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/N'zi-Comoé.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/N'zi-Comoé.internal|N'zi-Comoé.internal]] 
 
-### #is_/same_as :: [N'zi-Comoé.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/N'zi-Comoé.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/N'zi-Comoé.protect|N'zi-Comoé.protect]] 
 
-### #is_/same_as :: [N'zi-Comoé.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/N'zi-Comoé.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/N'zi-Comoé.private|N'zi-Comoé.private]] 
 
-### #is_/same_as :: [N'zi-Comoé.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/N'zi-Comoé.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/N'zi-Comoé.personal|N'zi-Comoé.personal]] 
 
-### #is_/same_as :: [N'zi-Comoé.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/N'zi-Comoé.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/N'zi-Comoé.secret|N'zi-Comoé.secret]] 
 

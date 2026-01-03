@@ -40,17 +40,17 @@ markerFolder: ./Moyen-Cavally/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moyen-Cavally](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally|Moyen-Cavally]] 
 
-### #is_/same_as :: [Moyen-Cavally.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.public|Moyen-Cavally.public]] 
 
-### #is_/same_as :: [Moyen-Cavally.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.internal|Moyen-Cavally.internal]] 
 
-### #is_/same_as :: [Moyen-Cavally.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.protect|Moyen-Cavally.protect]] 
 
-### #is_/same_as :: [Moyen-Cavally.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.private|Moyen-Cavally.private]] 
 
-### #is_/same_as :: [Moyen-Cavally.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.personal|Moyen-Cavally.personal]] 
 
-### #is_/same_as :: [Moyen-Cavally.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Moyen-Cavally.secret|Moyen-Cavally.secret]] 
 

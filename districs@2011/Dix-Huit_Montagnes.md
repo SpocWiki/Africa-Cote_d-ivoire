@@ -40,17 +40,17 @@ markerFolder: ./Dix-Huit_Montagnes/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dix-Huit_Montagnes](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Dix-Huit_Montagnes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Dix-Huit_Montagnes|Dix-Huit_Montagnes]] 
 
-### #is_/same_as :: [Dix-Huit_Montagnes.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Dix-Huit_Montagnes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Dix-Huit_Montagnes.public|Dix-Huit_Montagnes.public]] 
 
-### #is_/same_as :: [Dix-Huit_Montagnes.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Dix-Huit_Montagnes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Dix-Huit_Montagnes.internal|Dix-Huit_Montagnes.internal]] 
 
-### #is_/same_as :: [Dix-Huit_Montagnes.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Dix-Huit_Montagnes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Dix-Huit_Montagnes.protect|Dix-Huit_Montagnes.protect]] 
 
-### #is_/same_as :: [Dix-Huit_Montagnes.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Dix-Huit_Montagnes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Dix-Huit_Montagnes.private|Dix-Huit_Montagnes.private]] 
 
-### #is_/same_as :: [Dix-Huit_Montagnes.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Dix-Huit_Montagnes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Dix-Huit_Montagnes.personal|Dix-Huit_Montagnes.personal]] 
 
-### #is_/same_as :: [Dix-Huit_Montagnes.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Dix-Huit_Montagnes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Dix-Huit_Montagnes.secret|Dix-Huit_Montagnes.secret]] 
 

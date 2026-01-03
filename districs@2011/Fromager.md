@@ -40,17 +40,17 @@ markerFolder: ./Fromager/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fromager](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Fromager.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Fromager|Fromager]] 
 
-### #is_/same_as :: [Fromager.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Fromager.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Fromager.public|Fromager.public]] 
 
-### #is_/same_as :: [Fromager.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Fromager.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Fromager.internal|Fromager.internal]] 
 
-### #is_/same_as :: [Fromager.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Fromager.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Fromager.protect|Fromager.protect]] 
 
-### #is_/same_as :: [Fromager.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Fromager.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Fromager.private|Fromager.private]] 
 
-### #is_/same_as :: [Fromager.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Fromager.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Fromager.personal|Fromager.personal]] 
 
-### #is_/same_as :: [Fromager.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Fromager.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Fromager.secret|Fromager.secret]] 
 

@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yamoussoukro](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro|Yamoussoukro]] 
 
-### #is_/same_as :: [Yamoussoukro.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.public|Yamoussoukro.public]] 
 
-### #is_/same_as :: [Yamoussoukro.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.internal|Yamoussoukro.internal]] 
 
-### #is_/same_as :: [Yamoussoukro.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.protect|Yamoussoukro.protect]] 
 
-### #is_/same_as :: [Yamoussoukro.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.private|Yamoussoukro.private]] 
 
-### #is_/same_as :: [Yamoussoukro.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.personal|Yamoussoukro.personal]] 
 
-### #is_/same_as :: [Yamoussoukro.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Lacs/City/Yamoussoukro.secret|Yamoussoukro.secret]] 
 

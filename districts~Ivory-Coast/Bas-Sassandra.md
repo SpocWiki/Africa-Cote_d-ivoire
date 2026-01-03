@@ -40,17 +40,17 @@ markerFolder: ./Bas-Sassandra/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bas-Sassandra](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra|Bas-Sassandra]] 
 
-### #is_/same_as :: [Bas-Sassandra.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.public|Bas-Sassandra.public]] 
 
-### #is_/same_as :: [Bas-Sassandra.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.internal|Bas-Sassandra.internal]] 
 
-### #is_/same_as :: [Bas-Sassandra.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.protect|Bas-Sassandra.protect]] 
 
-### #is_/same_as :: [Bas-Sassandra.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.private|Bas-Sassandra.private]] 
 
-### #is_/same_as :: [Bas-Sassandra.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.personal|Bas-Sassandra.personal]] 
 
-### #is_/same_as :: [Bas-Sassandra.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Bas-Sassandra.secret|Bas-Sassandra.secret]] 
 

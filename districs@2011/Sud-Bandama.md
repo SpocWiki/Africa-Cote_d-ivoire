@@ -40,17 +40,17 @@ markerFolder: ./Sud-Bandama/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sud-Bandama](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Sud-Bandama.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Sud-Bandama|Sud-Bandama]] 
 
-### #is_/same_as :: [Sud-Bandama.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Sud-Bandama.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Sud-Bandama.public|Sud-Bandama.public]] 
 
-### #is_/same_as :: [Sud-Bandama.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Sud-Bandama.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Sud-Bandama.internal|Sud-Bandama.internal]] 
 
-### #is_/same_as :: [Sud-Bandama.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Sud-Bandama.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Sud-Bandama.protect|Sud-Bandama.protect]] 
 
-### #is_/same_as :: [Sud-Bandama.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Sud-Bandama.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Sud-Bandama.private|Sud-Bandama.private]] 
 
-### #is_/same_as :: [Sud-Bandama.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Sud-Bandama.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Sud-Bandama.personal|Sud-Bandama.personal]] 
 
-### #is_/same_as :: [Sud-Bandama.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Sud-Bandama.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districs@2011/Sud-Bandama.secret|Sud-Bandama.secret]] 
 

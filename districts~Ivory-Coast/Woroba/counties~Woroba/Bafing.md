@@ -40,17 +40,17 @@ markerFolder: ./Bafing/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bafing](/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing|Bafing]] 
 
-### #is_/same_as :: [Bafing.public](/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.public|Bafing.public]] 
 
-### #is_/same_as :: [Bafing.internal](/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.internal|Bafing.internal]] 
 
-### #is_/same_as :: [Bafing.protect](/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.protect|Bafing.protect]] 
 
-### #is_/same_as :: [Bafing.private](/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.private|Bafing.private]] 
 
-### #is_/same_as :: [Bafing.personal](/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.personal|Bafing.personal]] 
 
-### #is_/same_as :: [Bafing.secret](/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire/districts~Ivory-Coast/Woroba/counties~Woroba/Bafing.secret|Bafing.secret]] 
 
