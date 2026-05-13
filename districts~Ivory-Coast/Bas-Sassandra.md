@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Bas-Sassandra/
 markerFolder: ./Bas-Sassandra/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

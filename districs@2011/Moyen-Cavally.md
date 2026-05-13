@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Moyen-Cavally/
 markerFolder: ./Moyen-Cavally/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./N'zi-Comoé/
 markerFolder: ./N'zi-Comoé/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

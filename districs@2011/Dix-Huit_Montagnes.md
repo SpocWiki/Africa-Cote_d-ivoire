@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Dix-Huit_Montagnes/
 markerFolder: ./Dix-Huit_Montagnes/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

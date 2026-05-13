@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Sud-Bandama/
 markerFolder: ./Sud-Bandama/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

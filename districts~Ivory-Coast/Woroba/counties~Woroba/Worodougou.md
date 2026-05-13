@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Worodougou/
 markerFolder: ./Worodougou/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

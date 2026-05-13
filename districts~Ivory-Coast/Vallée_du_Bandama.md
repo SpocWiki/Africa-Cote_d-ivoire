@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Vallée_du_Bandama/
 markerFolder: ./Vallée_du_Bandama/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

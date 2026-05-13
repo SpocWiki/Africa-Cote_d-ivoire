@@ -28,7 +28,7 @@ coordinates: [[Yamoussoukro]]
 markerFile: [[Yamoussoukro]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
