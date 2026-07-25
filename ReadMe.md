@@ -883,7 +883,7 @@ dv_has_:
     code_repository: https://github.com/SpocWiki/Africa-Cote_d-ivoire
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Ivory_Coast,1008|WD~Ivory_Coast,1008]]'
+  - '[[../../../../../WikiData/WD~Ivory_Coast,1008|WD~Ivory_Coast,1008]]'
   - "[[/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire|Cote_d'ivoire]]"
   - "[[/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.public|Cote_d'ivoire.public]]"
   - "[[/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.internal|Cote_d'ivoire.internal]]"
@@ -895,7 +895,7 @@ dv_has_name_en: Cote D'ivoire
 dv_has_name_de: Elfenbeinküste
 dv_Area-Total: 322462
 dv_Area-Land: 318000
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: CI
 dv_Alcohol-l: 6.5
 dv_Language-Id: 496
@@ -904,7 +904,7 @@ dv_has_place_latitude: 6.85
 dv_concept-cotedivoire: xrhh5"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Cote_d-ivoire
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Ivory_Coast,1008|WD~Ivory_Coast,1008]]'
+- '[[../../../../../WikiData/WD~Ivory_Coast,1008|WD~Ivory_Coast,1008]]'
 - "[[/_Standards/Earth/Continent/Africa/Africa~West/Cote_d'ivoire|Cote_d'ivoire]]"
 - "[[/_public/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.public|Cote_d'ivoire.public]]"
 - "[[/_internal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.internal|Cote_d'ivoire.internal]]"
@@ -925,9 +925,9 @@ ISO3 = `=this.dv_ISO3`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Cote_d'ivoire/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Ivory_Coast,1008|WD~Ivory_Coast,1008]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Ivory_Coast,1008|WD~Ivory_Coast,1008]] 
 
 ## #has_/map 
 
@@ -946,7 +946,7 @@ markerFile: [[Cote_d'ivoire]]
 
 ```leaflet
 id: Cote_d'ivoire_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -972,7 +972,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Yamoussoukro]]  
 ![[Coat_of_arms_of_Cote-divoire.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Cote-divoire.mp3|Anthem-Cote-divoire.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Cote-divoire.mp3|Anthem-Cote-divoire.mp3]]
 ![[Flag_of_Cote-divoire.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
